@@ -1,0 +1,6 @@
+ [15:18:55] Features: HRV_MeanNN=1164.34, HRV_RMSSD=307.40, HRV_SDNN=279.20, HRV_LFHF=0.84, HRV_DFA_alpha1=0.87, Ent_Sample=0.76 | n_peaks=256, pct_valid=91.4%, q=0.687  => Prediction: Sangat Lelah (conf=0.34)
+[15:20:09] Features: HRV_MeanNN=1042.61, HRV_RMSSD=312.28, HRV_SDNN=361.61, HRV_LFHF=2.34, HRV_DFA_alpha1=1.05, Ent_Sample=0.77 | n_peaks=286, pct_valid=89.1%, q=0.656  => Prediction: Sangat Lelah (conf=0.30)
+[15:21:23] Features: HRV_MeanNN=1034.06, HRV_RMSSD=322.17, HRV_SDNN=322.39, HRV_LFHF=0.74, HRV_DFA_alpha1=0.83, Ent_Sample=0.97 | n_peaks=289, pct_valid=90.3%, q=0.706  => Prediction: Sangat Lelah (conf=0.26)
+15:24:03] Features: HRV_MeanNN=959.30, HRV_RMSSD=349.10, HRV_SDNN=407.75, HRV_LFHF=1.41, HRV_DFA_alpha1=1.05, Ent_Sample=1.64 | n_peaks=311, pct_valid=86.5%, q=0.69  => Prediction: Sangat Lelah (conf=0.31)
+[15:25:16] Features: HRV_MeanNN=1025.04, HRV_RMSSD=406.33, HRV_SDNN=398.19, HRV_LFHF=2.01, HRV_DFA_alpha1=0.99, Ent_Sample=2.12 | n_peaks=291, pct_valid=85.5%, q=0.658  => Prediction: Sangat Lelah (conf=0.37)
+[15:26:28] Features: HRV_MeanNN=1080.40, HRV_RMSSD=420.79, HRV_SDNN=418.15, HRV_LFHF=0.92, HRV_DFA_alpha1=0.93, Ent_Sample=1.14 | n_peaks=277, pct_valid=80.8%, q=0.657  => Prediction: Sangat Lelah (conf=0.33)
